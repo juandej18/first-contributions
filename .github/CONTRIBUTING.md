@@ -98,7 +98,7 @@ If you're making changes to a translation, please request a review from our prev
            <a href="../translations/README.vn.md">Tiếng Việt</a>
         </td>
         <td>
-           <a href="../translations/README.pl.md">Polski</a>
+           <a href="../translations/README.pl.md">sakshi</a>
         </td>
         <td>
            <a href="../translations/README.fa.md">فارسی</a>
@@ -421,5 +421,3 @@ If you're making changes to a translation, please request a review from our prev
         </td>
     </tr>
  </table>
-    
-
